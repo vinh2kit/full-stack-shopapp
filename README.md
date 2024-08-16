@@ -1,7 +1,8 @@
 # Welcome to ShopApp
 
 - Backend:  https://github.com/vinh2kit/shopapp-backend-v1
-            https://github.com/vinh2kit/shopapp-backend-v2 (developing ... )
+  <br> &emsp;&emsp;&emsp;&emsp;
+  https://github.com/vinh2kit/shopapp-backend-v2 (developing ... )
 - Frontend: https://github.com/vinh2kit/shopapp-frontend
 - Main function:
   - CRUD, search, sort, pagination for product
