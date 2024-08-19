@@ -2,7 +2,7 @@
 - Frontend: https://github.com/vinh2kit/shopapp-frontend
 - Backend:  https://github.com/vinh2kit/shopapp-backend-v1
   <br> &emsp;&emsp;&emsp;&emsp;
-  https://github.com/vinh2kit/shopapp-backend-v2 (developing ... )
+  https://github.com/vinh2kit/shopapp-backend-v2
   <br>
 - Main:
   - CRUD, search, sort, pagination for product
