@@ -1,6 +1,8 @@
 # Welcome to ShopApp
 - Frontend: https://github.com/vinh2kit/shopapp-frontend
-- Backend:  https://github.com/vinh2kit/shopapp-backend-v2
+- Backend:  https://github.com/vinh2kit/shopapp-backend-v1 
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     https://github.com/vinh2kit/shopapp-backend-v2 (rebuilding ...)
 - Main:
   - CRUD, search, sort, pagination for product
   - Register, login return jwt, encrypt password with spring security
